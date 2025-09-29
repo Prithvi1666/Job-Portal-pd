@@ -1,12 +1,60 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Job Portal Application
 
-Currently, two official plugins are available:
+Welcome to the Job Portal project! This application connects job seekers with employers, allowing users to search for jobs, apply to them, and manage their profiles. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), this platform offers a seamless experience for both job seekers and recruiters.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Live Demo
 
-## Expanding the ESLint configuration
+Experience the application live at: https://job-portal-pd.vercel.app
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📂 Table of Contents
+
+Features
+
+Tech Stack
+
+Installation
+
+Usage
+
+Contributing
+
+License
+
+✅ Features
+
+User Authentication: Secure login and registration for job seekers and recruiters.
+
+Job Listings: Browse and search for job opportunities.
+
+Job Applications: Apply to jobs and track application status.
+
+Profile Management: Create and update personal profiles.
+
+Admin Dashboard: Manage users and job postings.
+
+🛠️ Tech Stack
+
+Frontend: React.js, Redux, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+Authentication: JWT (JSON Web Tokens)
+
+Image Uploads: Cloudinary
+
+Deployment: Vercel (Frontend), Render (Backend), MongoDB Atlas (Database)
+
+🧰 Installation
+Prerequisites
+
+Ensure you have the following installed:
+
+Node.js (v18+ recommended)
+
+MongoDB Atlas account or local MongoDB setup
+
+Cloudinary account for image uploads
